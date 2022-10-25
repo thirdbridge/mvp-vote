@@ -1,6 +1,6 @@
 import MVPVote from 0xf8d6e0586b0a20c7
 
-// Transaction that castd a vote ballot 
+// Transaction that casts a vote ballot 
 transaction(candidateChoice: String) {
 
     prepare(voter: AuthAccount) {
